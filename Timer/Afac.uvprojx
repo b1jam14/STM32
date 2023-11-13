@@ -403,6 +403,11 @@
               <FileType>1</FileType>
               <FilePath>..\Drivers\Source\Timer.c</FilePath>
             </File>
+            <File>
+              <FileName>ADC.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Drivers\Source\ADC.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -809,6 +814,11 @@
               <FileName>Timer.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\Drivers\Source\Timer.c</FilePath>
+            </File>
+            <File>
+              <FileName>ADC.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Drivers\Source\ADC.c</FilePath>
             </File>
           </Files>
         </Group>
